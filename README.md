@@ -1,4 +1,4 @@
-# Next.js + DaisyUI + TailwindCSS + Supabase Starter App
+# [TEMPLATE]Next.js + DaisyUI + TailwindCSS + Supabase Starter App
 
 This is a starter app built with **Next.js**, **DaisyUI**, **TailwindCSS**, and **Supabase**. It provides a basic setup for authentication and user profile management, including functionalities to update user profile details, change passwords, and deactivate accounts.
 
