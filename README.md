@@ -13,10 +13,18 @@ This is a starter app built with **Next.js**, **DaisyUI**, **TailwindCSS**, and 
 ## 📸 Screenshots
 
 
-![App Screenshot](https://ibb.co/J2FVbRF)
-![App Screenshot](https://ibb.co/N7nMm9L)
-![App Screenshot](https://ibb.co/2P278k0)
-![App Screenshot](https://ibb.co/1JkyHZj)
+### Home Page
+![Home Page](./screenshots/screenshot1.png)
+
+### Login Page
+![Login Page](./screenshots/screenshot2.png)
+
+### Signup Page
+![Signup Page](./screenshots/screenshot3.png)
+
+### Dashboard Page
+![Profile Page](./screenshots/screenshot4.png)
+
 
 
 
